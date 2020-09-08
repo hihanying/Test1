@@ -11,5 +11,7 @@ public class HelloMyGit {
         System.out.println("在线更新1");
 
 
+        System.out.println("master update");
+
     }
 }
