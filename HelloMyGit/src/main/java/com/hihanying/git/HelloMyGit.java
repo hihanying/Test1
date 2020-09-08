@@ -8,6 +8,8 @@ public class HelloMyGit {
         System.out.println("version 3");
         System.out.println("fenzhi 1");
         System.out.println("master 1");
+        System.out.println("在线更新1");
+
 
     }
 }
