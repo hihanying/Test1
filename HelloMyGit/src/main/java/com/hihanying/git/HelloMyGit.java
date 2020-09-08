@@ -15,6 +15,8 @@ public class HelloMyGit {
         System.out.println("fenzhi 3");
         System.out.println("fenzhi 4");
 
+        System.out.println("fenzhi gengxin");
+
 
 
     }
